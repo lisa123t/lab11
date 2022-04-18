@@ -1,0 +1,44 @@
+span.output {
+    display: inline-block; 
+}
+
+body {background-color: lightcyan;}
+
+input {width: 100%; 
+    padding: 14px 20px; 
+    margin: 8px 0; 
+    display: inline-block;
+    border: 1px solid magenta;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button[type=submit] {
+    width: 100%;
+    background-color: magenta;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+h1 {font-family:'Franklin Gothic Medium', Arial Narrow, Arial, sans-serif; 
+    text-align: center;
+}
+
+p {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 20px; 
+}
+
+
+div {   background-color: rgb(246, 189, 246);
+        width: 50%;
+        border: 15px solid magenta;
+        padding: 50px;
+        margin: auto;
+        
+}
